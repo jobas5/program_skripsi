@@ -6,3 +6,4 @@ numpy==1.21.6
 Pillow==6.2.2
 protobuf==3.19.6
 streamlit==1.9.0
+tensorflow==2.11.0
