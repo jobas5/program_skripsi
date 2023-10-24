@@ -19,7 +19,7 @@ def sample_to_image(sample, save_directory):
     img = Image.new('RGB', (255, 255), color='black')
     draw = ImageDraw.Draw(img)
     for f, s, g in zip(font_sizes, sample, grid):
-        font = ImageFont.truetype("E:/program_skripsi/FreeMono Bold.ttf", size=f)
+        font = ImageFont.truetype("FreeMono Bold.ttf", size=f)
         draw.text(g, str(s), font=font, fill='white')
     return img
 
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     elif app_options == apps[2]:
         st.markdown('Klasifikasi Genre Musik menggunakan Pre-trained CNN DenseNet121')   
         st.title('Aplikasi Klasifikasi Gambar')
-        model_path = 'E:/program_skripsi/model.h5'
+        model_path = 'model.h5'
         model = load_model(model_path)
 
         uploaded_image = st.file_uploader("Unggah gambar", type=["jpg", "png", "jpeg"])
