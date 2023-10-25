@@ -1,0 +1,221 @@
+artist,album,track_name,track_id,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,genre
+Ayu Ting Ting,Yang Sudah Ya Sudahlah,Yang Sudah Ya Sudahlah,1P8oOaTWncKSm84nXApIdU,0.682,0.896,-5.873,0.0454,0.0116,0.277,0.77,144.979,200449,dangdut
+Slank,Slank Since 1983,I Miss U but I Hate U,1oNC53QzqAMEQuGguxJSri,0.39,0.779,-4.775,0.0477,0,0.322,0.646,92.698,275093,classic indonesian rock
+Pinkan Mambo,Wanita Terindah,Merindunya,7AsqQa4Yif7iWkp9LlqrRs,0.346,0.426,-6.335,0.0284,1.10E-05,0.127,0.168,135.731,234173,dangdut
+Cita Citata,Goyang Dumang,Aku Mah Apa Atuh,3jwnfpA2yBbQqLbIonWKuO,0.709,0.813,-8.912,0.0335,0.00703,0.13,0.949,140.005,210912,dangdut
+Jamrud,Ningrat,Pelangi Di Matamu,4IgaskcsffuOR4EH2aiYP9,0.41,0.315,-7.764,0.0291,0,0.105,0.205,127.92,329200,classic indonesian rock
+Kotak,Terbaik,TInggalkan Saja,6IOLJNLMUou1XmDRCwQswE,0.521,0.703,-3.89,0.0386,0,0.0703,0.245,170.007,234720,classic indonesian rock
+Wali,Aku Bukan Bang Toyib,Nenekku Pahlawanku,0O4deQeDLOk7gfpTXx7Nk5,0.737,0.751,-5.296,0.0288,0,0.348,0.949,121.959,255676,dangdut
+Tere,Begitu Berharga,Dosa Termanis,7LIk2XYWCV4Xqfp1F48HIX,0.628,0.582,-6.957,0.0248,0.000236,0.0953,0.267,82.473,241733,classic indonesian rock
+Gigi,Mohon Ampun,Pintu Sorga,4KBVCZT5D3olLHga1rpZqA,0.604,0.905,-4.855,0.0415,2.45E-01,0.0884,0.826,122.061,211500,classic indonesian rock
+Wali,Orang Bilang,Dik,414GLtJjwva1WhFQOj5fYc,0.52,0.41,-7.403,0.0265,1.69E-06,0.124,0.17,129.966,273801,dangdut
+Dewa 19,Terbaik Terbaik,Cinta 'Kan Membawamu Kembali,6MwIBSBiAMGomp4I80Xkgw,0.545,0.185,-13.39,0.0451,0.0174,0.099,0.259,139.515,259333,classic indonesian rock
+Iwan Fals,Sarjana Muda,Yang Terlupakan,5M8mDTrtoPYE0MjOpaWzc8,0.37,0.514,-5.479,0.0302,0.00115,0.283,0.17,126.978,295947,classic indonesian rock
+Barasuara,Bangkit Dan Berlari,Bangkit Dan Berlari - Instrumental,3uiyzc0WdwqEXUO3ngIMtS,0.57,0.721,-6.847,0.0287,0.922,0.333,0.142,100.031,274055,indonesian indie
+Vina Panduwinata,Terbaik 1981 - 2006,Aku Makin Cinta,4Fx054uhsprmryvlfnr8hn,0.353,0.329,-11.758,0.0383,0.00426,0.106,0.125,69.314,230067,dangdut
+Zaskia Gotik,Gotik,1 Jam,17bR926tPCBUvkB4jo9rWT,0.628,0.897,-7.082,0.0341,0.0157,0.42,0.926,159.973,242004,dangdut
+Kotak,Terbaik,Pelan Pelan Saja,7gIoGYwIE7103MbNvCyCgU,0.624,0.351,-7.634,0.0325,6.44E-06,0.0614,0.279,75.958,239517,classic indonesian rock
+Padi,The Singles,Harmony,49qbm2yG8cWqoM1Oxe0lhP,0.265,0.371,-6.933,0.0308,1.00E-05,0.128,0.274,83.11,295147,classic indonesian rock
+Cokelat,Rasa Baru (Re-package),Bendera,0BsTURzR1eWY6GXAKSqyVW,0.545,0.862,-7.754,0.0608,8.60E-05,0.0693,0.713,155.9,247787,classic indonesian rock
+Barasuara,Pikiran dan Perjalanan,Haluan,7dBKBJAbeZNN6XQA98LPfn,0.554,0.87,-6.321,0.0379,0.0048,0.0582,0.227,97.475,191704,indonesian indie
+Iis Dahlia,Terlalu Tampan,Terlalu Tampan,4aI2zr32CU0X55QXTKk3lQ,0.636,0.612,-5.474,0.0323,3.15E-06,0.187,0.584,119.993,211000,dangdut
+Radja,Langkah Baru,Jujur,3VdmpcvhuYbBSqoqr3izdt,0.574,0.799,-8.42,0.0414,5.48E-05,0.17,0.621,151.572,292943,dangdut
+Barasuara,Pikiran dan Perjalanan,Tentukan Arah,3ZXQ7UmYQfcNPG9DMHkpJR,0.222,0.541,-8.457,0.0368,0.0214,0.123,0.26,179.932,274186,indonesian indie
+Via Vallen,Selow,Selow,0C0qskYuGjtQmW8dCtMNjy,0.737,0.502,-7.309,0.0646,3.57E-06,0.169,0.643,160.079,227486,dangdut
+TIC Band,Terbaik Untukmu,Terbaik Untukmu,7tIQFJVJCiC1OPNOnpFK21,0.51,0.791,-6.819,0.0514,0,0.182,0.506,82.985,280160,classic indonesian rock
+Dewa,Bintang Lima,Separuh Nafas,0uxMIFFrGMKlx5wpHAUJsk,0.59,0.836,-7.742,0.0361,2.04E-05,0.261,0.671,99.797,300533,classic indonesian rock
+Andra & The Backbone,Andra and the Backbone,Sempurna,7yyDYbyS8DVawBsYCEzGCg,0.313,0.32,-9.952,0.0292,0,0.105,0.395,98.046,268423,classic indonesian rock
+Rif,Radja,Radja,5gpqDeNLrBTbT5x1RUOxbP,0.482,0.948,-5.822,0.0413,0.282,0.105,0.825,150.067,280173,classic indonesian rock
+Naif,The Best,Jikalau,4fBFN8NLLIbvw6JzaiD2hp,0.626,0.684,-8.096,0.0295,0,0.0908,0.718,120.375,186933,indonesian indie
+Mocca,My Diary,Once Upon a Time / Secret Admirer,2DYPAPFBnfCmqGptN6kRgH,0.659,0.42,-10.347,0.0364,1.10E-06,0.0885,0.336,116.146,240587,indonesian indie
+Cokelat,Segitiga,Segitiga,3FEtQaakW0R6b5KPxN7v2n,0.519,0.822,-7.508,0.0537,0.00146,0.0495,0.552,151.838,219613,classic indonesian rock
+Dewa,Bintang Lima,Roman Picisan,2a9UQRKzLgWQGf4sL5XXXm,0.377,0.797,-7.522,0.061,0,0.33,0.521,159.287,242707,classic indonesian rock
+Nugie,Air,Burung Gereja,2vkCBcgqkGZniZmlAzi8JF,0.41,0.281,-11.081,0.0343,0,0.0918,0.368,115.07,324147,classic indonesian rock
+Padi,90's Hits Best Indonesian Bands,Dahulu,7IPR5SrzCw7MLaaB1qSNpF,0.643,0.91,-4.071,0.0893,0.000184,0.192,0.762,110.117,229000,classic indonesian rock
+Wali,Cari Jodoh,Yank,3RR5OgrNTOsjmUmkQ1ocuK,0.582,0.867,-3.175,0.0301,0,0.0145,0.462,130.044,275571,dangdut
+Ayu Ting Ting,Best of Ayu Ting Ting,Sik Asik,1HqqBAoA2Qfm3MRNk9XymJ,0.711,0.831,-5.521,0.0389,0,0.0586,0.965,146.972,233253,dangdut
+Iwan Fals,In Love,Kemesraan,134wQxxKYEk27nTgSoGzGz,0.618,0.533,-9.783,0.0254,2.81E-05,0.189,0.381,88.116,311453,classic indonesian rock
+Vina Panduwinata,Terbaik 1981 - 2006,Didadaku Ada Kamu,3c1rIDkyjLOeZTL1pFvPAl,0.629,0.276,-10.341,0.152,0.0823,0.0829,0.421,118.841,223133,dangdut
+Dewa,Bintang Lima,Hidup Adalah Perjuangan,4DwtjWgoWRqfV4Lr0zICGP,0.441,0.923,-6.507,0.0384,0,0.363,0.766,126.742,207427,classic indonesian rock
+Ayu Ting Ting,Geregetan,Geregetan,76VjmDPqkSUdMjFTr9lsxt,0.864,0.893,-5.055,0.0538,0.00106,0.0775,0.662,121.97,207827,dangdut
+Ecoutez,Positive,Maafkan (Tak Sempurna),4vmLCwIH2r5r04aw5qRX4c,0.667,0.199,-10.409,0.0518,0,0.157,0.668,163.652,238813,indonesian indie
+Dewa 19,The Best of Dewa 19,Kamulah Satu - Satunya,6pCfc6xxUXYBWLMQhIWDmh,0.428,0.711,-8.114,0.0373,0,0.125,0.624,73.984,241267,classic indonesian rock
+Ecoutez,Love - Live - Life,Percayalah,7u0nGHgHQW8JPz7MtqCcGi,0.6,0.412,-7.093,0.0364,1.81E-05,0.0786,0.251,140.013,270305,indonesian indie
+Cita Citata,Sakitnya Tuh Disini,Sakitnya Tuh Disini,3YSqJtGNp6ioAmcSSHMhj9,0.761,0.949,-5.498,0.0371,3.68E-05,0.309,0.966,129.988,196048,dangdut
+Wali,Orang Bilang,Egokah Aku,6rebIfsxrAUujuueAcUMxF,0.443,0.294,-10.018,0.0278,0,0.308,0.0708,129.972,236880,dangdut
+Astrid,Terpukau,Terpukau,0irPA8LmsoQYkqE5I7v3aj,0.471,0.434,-5.07,0.0274,3.01E-05,0.115,0.14,129.749,252093,dangdut
+Inka Christie,Nyanyian Suara Hati,Nyanyian Suara Hati,7pE57PAPg9JzNnF5FXBf4n,0.315,0.571,-6.288,0.0274,1.75E-05,0.104,0.148,174.89,337133,dangdut
+Barasuara,Taifun,Sendu Melagu,0mD2oRksOCjlfqr3snU96p,0.673,0.703,-7.061,0.032,0.434,0.217,0.435,140.965,247583,indonesian indie
+Java Jive,Kau Yang Terindah,Kau Yang Terindah,6h9KzdPvqmGBd9xYCmDtNl,0.572,0.697,-5.736,0.0325,0,0.114,0.378,140.282,186267,classic indonesian rock
+Tere,Awal Yang Indah,Awal Yang Indah,0qFTsoQQFDHGjrgtBJExta,0.323,0.576,-5.677,0.0301,1.89E-06,0.128,0.388,159.839,260267,classic indonesian rock
+Andra & The Backbone,Season 2,Hitamku,15JVbBUeP5fSTUPW1b8ALn,0.714,0.69,-6.625,0.0306,0.000774,0.133,0.96,119.98,266890,classic indonesian rock
+Zaskia Gotik,Gotik,Sudah Cukup Sudah,1LjJeMVul5vZt0fBn2F8cH,0.619,0.783,-7.315,0.0302,0.122,0.175,0.897,159.974,244725,dangdut
+Tere,Sebuah Harapan,Mengapa Ini Yang Terjadi (feat. Valent),5YugYZ5nkaQUJLjWP1IpmM,0.352,0.349,-8.942,0.0275,8.49E-05,0.148,0.275,139.781,238187,classic indonesian rock
+Manis Manja,Best of the Best: Manis Manja,Bete,2von6AR0reGlFTjvy8k9X0,0.669,0.966,-5.363,0.0366,0.218,0.13,0.657,99.997,207877,dangdut
+Andra & The Backbone,Season 2,Main Hati,2qQVSzHh1kl1WB2PqrnFj5,0.577,0.639,-5.26,0.0255,0.000217,0.175,0.462,157.991,238933,classic indonesian rock
+Padi,Sesuatu Yang Tertunda,Semua Tak Sama,4DSOQ3kfCw70iWDswduLGN,0.511,0.658,-6.864,0.0368,0,0.126,0.433,152.033,339307,classic indonesian rock
+Wali,Cari Jodoh,Cari Jodoh,2uNmlrA4pmPokSeVVRdkWe,0.677,0.926,-3.765,0.0294,0,0.184,0.759,117.056,251506,dangdut
+Petra Sihombing,Mine,Istimewa,4PregcZBAcPwk6qpCcLn5t,0.663,0.541,-7.035,0.0597,0,0.285,0.797,119.875,216053,indonesian indie
+Ebiet G. Ade,Masih Ada Waktu,Berita Kepada Kawan,15oVjL0H6IGFXQNhDVRmsY,0.547,0.421,-7.485,0.0294,0,0.235,0.37,143.644,342120,dangdut
+Naif,Naif,Mobil Balap,3jEWkPovJFF6UiJv6MBUAm,0.746,0.657,-9.125,0.0294,0.122,0.236,0.844,126.989,219333,indonesian indie
+Dewa,Bintang Lima,Cemburu,4huqghnepsIzBA01HfaAG3,0.419,0.666,-6.873,0.0363,0,0.433,0.625,185.378,187307,classic indonesian rock
+Kotak,Never Dies,Inspirasi Sahabat,3kGkuEVwX0jrq5UcOTJOvu,0.711,0.716,-5.036,0.0417,4.24E-05,0.0523,0.662,134.996,181107,classic indonesian rock
+Radja,Aku Ada Karena Kau Ada,Yakin,5jlkiUnz8PshqJP1Aodq2k,0.592,0.906,-6.678,0.153,0,0.0396,0.464,114.788,321921,dangdut
+Ayu Ting Ting,Best of Ayu Ting Ting,Single Happy,7vgha1Le5pHGrJPep4lRde,0.577,0.947,-5.12,0.0614,0.000112,0.0705,0.842,185.044,216213,dangdut
+Duo Anggrek,Cikini Gondangdia,Cikini Gondangdia - Roy. B Radio Edit Mix,1QWVO2hqp7YJGgQEeyhMiD,0.771,0.897,-5.827,0.046,0.0341,0.0117,0.961,129.995,237783,dangdut
+ST12,Pangeran Cinta,Aku Padamu,0xEuyXyLO01LPLvkY4PCmK,0.303,0.767,-6.325,0.0468,2.25E-05,0.108,0.337,143.866,205080,dangdut
+Wali,Cari Jodoh,Baik Baik Sayang,23Kv9sNtXPtcxJOgw1IfB7,0.58,0.507,-4.625,0.0269,0,0.652,0.228,124.999,252212,dangdut
+Kunto Aji,Mantra Mantra,Konon Katanya,51pAZa68k4sQjkCGlOPqOn,0.71,0.705,-6.97,0.0625,1.11E-05,0.0527,0.584,119.972,187827,indonesian indie
+Zaskia Gotik,Gotik,1000 Alasan,5Htx3GlNLvNo3Ssk5XuRKn,0.663,0.984,-5.149,0.035,0.00315,0.209,0.922,135.019,229178,dangdut
+Dewa,Cintailah Cinta,Bukan Rahasia,4H8T2qE7F4nZzVIJoVmE7e,0.57,0.819,-6.201,0.0362,0,0.0347,0.637,129.939,271467,classic indonesian rock
+Mocca,Lima,Teman Sejati,6r5SSeHNvTCoskbN1jAI7f,0.769,0.567,-6.512,0.0454,4.93E-05,0.684,0.863,122.309,270003,indonesian indie
+Cita Citata,Goyang Dumang,Goyang Dumang,3Gyg7epCmGZkdhz74udgEG,0.751,0.759,-10.237,0.0447,0.0227,0.127,0.956,131.967,224182,dangdut
+Kotak,Terbaik,Terbang,2yCjqjUOqVRWyXYl5GZ04w,0.582,0.908,-3.964,0.0574,0,0.321,0.67,106.076,204973,classic indonesian rock
+Ayu Ting Ting,Alamat Palsu,Alamat Palsu,3gGOO9Y84eLdgi5FSSrQQp,0.58,0.842,-4.288,0.0348,4.40E-06,0.306,0.832,176.277,289416,dangdut
+Dewa,Bintang Lima,Risalah Hati,0cc9lgdfHqeS8t9BzbFFmj,0.477,0.606,-6.758,0.0253,5.89E-06,0.143,0.515,75.183,292560,classic indonesian rock
+Melinda,Ratu Funky,Ada Bayangmu - Wave Remix,4c8YoVfJdJpJlXhHxEcf5l,0.598,0.837,-5.832,0.031,0.028,0.151,0.746,159.947,196248,dangdut
+Kunto Aji,Mantra Mantra,Topik Semalam,6sGp3EqWnvcyfN6AtjuFtq,0.647,0.443,-8.871,0.0362,1.89E-06,0.107,0.302,95.988,291907,indonesian indie
+Via Vallen,Meraih Bintang,Meraih Bintang,4yRiSND7cTKbivGz7wk4Hc,0.825,0.835,-5.584,0.0625,0,0.126,0.803,90,183798,dangdut
+Wali,Cari Jodoh,Puaskah,0zrErskNiv7HnfTeosXUsY,0.484,0.703,-4.422,0.0309,0,0.151,0.173,118.008,248572,dangdut
+Fitri Carlina,Anti Galau,ABG Tua,4svULWD2XEqtdUNZQZOmrS,0.632,0.668,-5.874,0.029,0.00184,0.138,0.73,95.029,282502,dangdut
+Padi,Lain Dunia,Mahadewi,2YiMdiqqE2fWIYuwH8Djk3,0.313,0.477,-11.782,0.0476,0.149,0.114,0.398,119.424,251840,classic indonesian rock
+Barasuara,Pikiran dan Perjalanan,Samara,47tk8mVTF3XRMvei4QKXrk,0.59,0.924,-4.194,0.0419,0.0038,0.378,0.475,132,223211,indonesian indie
+Mocca,I Remember,I Remember,2pb1TmG342aDAPgJFRyfIW,0.732,0.328,-7.72,0.0327,0,0.0864,0.55,112.104,165000,indonesian indie
+Barasuara,Bangkit Dan Berlari,Bangkit Dan Berlari,2riJ0FSfpUKpMDaap6K9sc,0.504,0.777,-5.908,0.0377,0.208,0.329,0.238,100.067,272250,indonesian indie
+Sal Priadi,Ikat Aku Di Tulang Belikatmu,Ikat Aku Di Tulang Belikatmu,5CLaJvEVJc3hCBUun5Y88c,0.144,0.217,-11.275,0.0322,3.11E-05,0.124,0.0789,171.214,258565,indonesian indie
+Astrid,Terpukau,Semusim,0S6ieo9l1Cl9ENfib8M8xV,0.383,0.658,-4.833,0.0308,0.000514,0.172,0.0942,139.896,282453,dangdut
+Pinkan Mambo,Aku Tau Rasanya,Kasmaran,1qlmjwK10E5WyevBuOgT8J,0.702,0.646,-7.035,0.0361,0.00683,0.0937,0.623,124.978,226507,dangdut
+Astrid,Hari Bahagia,Hari Bahagia,06Wy6EsoABZpwS2wNmjXiz,0.575,0.407,-6.622,0.0319,1.83E-06,0.144,0.157,145.665,252875,dangdut
+Zaskia Gotik,Gotik,Bang Jono - DJ Glary Remix,70JGeExr1WxjXb64rX2yTA,0.754,0.963,-4.862,0.049,0.000315,0.415,0.957,134.989,232436,dangdut
+Barasuara,Pikiran dan Perjalanan,Pancarona,49XXrWxrmBU34mNMpxsSfG,0.494,0.904,-6.39,0.0446,0.397,0.183,0.268,89.973,261379,indonesian indie
+Radja,Aku Ada Karena Kau Ada,Angin,720zAvBtyM2jTXAMctFXtX,0.584,0.88,-6.093,0.0467,0,0.0581,0.629,134.941,237076,dangdut
+Barasuara,Taifun,Hagia,1xdvyDZZLVzDwLDU85ePBn,0.476,0.638,-6.416,0.0446,0.0129,0.116,0.282,138.009,166390,indonesian indie
+Padi,Lain Dunia,Sobat,4DBCWeFLSg62wKq4ntVswv,0.462,0.793,-10.625,0.0544,0.343,0.158,0.525,145.077,324693,classic indonesian rock
+Wali,Orang Bilang,Orang Bilang,0u4ZYOd1U1IbJ5Ks6Y6KHj,0.665,0.651,-6.949,0.0326,0,0.459,0.456,115.014,280523,dangdut
+Kotak,Energi (Repackaged),Tendangan Dari Langit,2pX55pu4x72ltYtISALewT,0.626,0.894,-5.587,0.0642,0,0.223,0.636,135.011,244307,classic indonesian rock
+Dewa,Cintailah Cinta,Arjuna,7jOFzcYm74WaqS79ApFGhN,0.526,0.845,-5.513,0.0408,0.000349,0.116,0.348,137.565,313533,classic indonesian rock
+Ecoutez,Positive,Are You Really The One,1PgYdQBOU3Cl0e96wae7Fo,0.759,0.423,-7.494,0.0324,0,0.228,0.837,95.034,254720,indonesian indie
+Barasuara,Pikiran dan Perjalanan (Iga Massardi Version),Pikiran dan Perjalanan - Iga Massardi Version,1g6Tv6FGtVWShfwqYi3eIj,0.246,0.831,-6.55,0.0908,0.099,0.102,0.0988,173.069,259252,indonesian indie
+Gigi,Mohon Ampun,Perdamaian,6Ey3w9jIGpe1iqPKGCAgXP,0.601,0.961,-5.387,0.0702,0.136,0.16,0.76,115.022,232385,classic indonesian rock
+Vina Panduwinata,Cium Pipiku,Surat Cinta,2cQBZJlX2U0PLhjDH9fauH,0.647,0.587,-7.552,0.105,0.0084,0.189,0.896,166.004,272213,dangdut
+The Dance Company,The Dance Company,Papa Rock n' Roll,0SGe5yedQhyOUVcihNlsfK,0.447,0.95,-3.212,0.0973,0,0.21,0.41,135.891,221645,classic indonesian rock
+Gigi,Mohon Ampun,Keagungan Tuhan,1vVPy3lh6qRfUbKXcOo0oC,0.584,0.827,-5.956,0.0241,1.60E-02,0.0922,0.573,97.021,251921,classic indonesian rock
+Padi,The Singles,Sesuatu Yang Indah,6hcj1zfAGPr5SRM9Y98KvX,0.466,0.941,-4.354,0.0672,0.00573,0.386,0.575,156.064,352693,classic indonesian rock
+Zaskia Gotik,Gotik,Cukup 1 Menit - DJ Roy. B,168CdNMYyzpHsrmJtqu7Hw,0.691,0.885,-6.282,0.0321,0.0877,0.277,0.845,140.01,208218,dangdut
+Dewa 19,Kerajaan Cinta,Dewi,1ykAcLeTERrRs7QSQ9xUtQ,0.624,0.833,-6.65,0.0344,0.0011,0.145,0.953,79.993,261364,classic indonesian rock
+Melinda,Ratu Funky,Cinta Satu Malam,2umTSyXGFioHXtOLCylyig,0.573,0.94,-4.541,0.0335,0.0223,0.0703,0.916,159.976,169386,dangdut
+Cita Citata,Sakitnya Tuh Disini,Perawan Atau Janda,5HlL7mWJPtHgO9iMnNuplq,0.616,0.931,-10.668,0.0471,0.0667,0.338,0.971,157.97,227943,dangdut
+God Bless,Semut Hitam,Rumah Kita,0bEYjzwwRry7GS7sRj87ub,0.322,0.629,-6.919,0.0385,0,0.0619,0.151,79.016,286760,classic indonesian rock
+Barasuara,Pikiran dan Perjalanan,Tirai Cahaya,4Th9CLm8IIjVELFjMW641U,0.617,0.841,-4.846,0.0312,0.0362,0.291,0.361,110.687,229260,indonesian indie
+Gigi,Mohon Ampun,Ketika Kaki & Tangan Berkata,1bWnZCLzBwPXFKZ3Zlw8I9,0.344,0.337,-8.367,0.0321,0.00E+00,0.106,0.173,153.581,212600,classic indonesian rock
+Tashoora,"Hamba Jaring Cahaya, Hamba Bela Gelapnya",Agni,0tc8qBHN4g8lHoGVD1RT0U,0.716,0.549,-6.688,0.0389,0.156,0.262,0.568,126.031,188009,indonesian indie
+Astrid,Jadikan Aku Yang Ke 2,Jadikan Aku Yang Kedua,1nKxixMaGmgOcAgKxazYyc,0.702,0.621,-6.888,0.043,0.00717,0.167,0.458,127.968,251373,dangdut
+Nella Kharisma,Sebelas Duabelas,Kau Tercipta Bukan Untukku,2q9f86CdlaXOr6vD3HJK6R,0.789,0.946,-6.939,0.0347,0.0111,0.276,0.963,128.027,261893,dangdut
+Padi,Lain Dunia,Begitu Indah,0GI6KBji23F1191IABn0FL,0.379,0.525,-11.591,0.0409,0.536,0.109,0.234,167.879,308800,classic indonesian rock
+Monita Tahalea,Dandelion,Memulai Kembali,3fkfiYZdDNi6PAWFaTxlGn,0.655,0.461,-9.693,0.0275,0.000337,0.0877,0.695,95.056,231061,indonesian indie
+ST12,Pangeran Cinta,Setiaku,3XLGj7DEIHqzmdt4oiOdtG,0.538,0.486,-7.767,0.0267,1.06E-06,0.128,0.206,133.837,266853,dangdut
+Kunto Aji,Mantra Mantra,Rehat,1BzMyhmPzYnGWK6RBF5TTj,0.327,0.252,-12.514,0.0314,0.213,0.145,0.0708,69.989,354480,indonesian indie
+Siti Badriah,Satu Sama,Brondong Tua,5MP7B3BUu5AHuSmPaLjdwF,0.71,0.995,-3.056,0.0396,0.0119,0.29,0.82,135.007,221657,dangdut
+Kunto Aji,Mantra Mantra,Sulung,7qo8kexwXhr3FwyHASzvvk,0.447,0.293,-12.716,0.0303,9.58E-05,0.21,0.314,104.871,113907,indonesian indie
+Ayu Ting Ting,Geboy Mujair,Geboy Mujair,0JRNvctZ2gf5zHmaP0narJ,0.542,0.737,-9.121,0.0396,0.027,0.308,0.764,180.091,258267,dangdut
+Slank,Get Married (Original Motion Picture Soundtrack),Kamu Harus Pulang,3opmyBWsff7Vdr5PUEMWuy,0.523,0.847,-7.23,0.0433,1.13E-05,0.74,0.569,105.364,371783,classic indonesian rock
+Wali,Aku Bukan Bang Toyib,Doaku Untukmu Sayang,1a9EPfJDAf3Y7dDdkbpnqY,0.558,0.481,-6.497,0.0256,0,0.0881,0.386,129.97,226484,dangdut
+Kotak,Energi (Repackaged),Selalu CInta,0GDxhBE0Sq0Dq8y4JE2SDC,0.583,0.46,-4.509,0.0295,0,0.112,0.312,134.173,283893,classic indonesian rock
+Barasuara,Taifun,Mengunci Ingatan,1WYR1Amb1BSBFJ3YvxLvqS,0.538,0.896,-5.77,0.0369,0.2,0.214,0.276,84.465,270978,indonesian indie
+Barasuara,Taifun,Tarintih,7Er2u9w8i48zxg5coXfs5T,0.464,0.687,-4.838,0.0296,0.00345,0.0869,0.235,140.008,281726,indonesian indie
+Cokelat,Rasa Baru,Jauh,2iPgYGr2VMofVPy2j6E7G5,0.277,0.544,-9.028,0.0297,0.293,0.0573,0.156,82.067,327693,classic indonesian rock
+Padi,Padi,Menanti Sebuah Jawaban,0ZiMNsLNdvq4KWSPBi71DK,0.582,0.742,-6.52,0.0517,0.0008,0.184,0.471,135.04,273670,classic indonesian rock
+Kotak,Terbaik,Kecuali Kamu,5FUcUIEl6XC6EkoQeJhES8,0.461,0.47,-7.016,0.0303,4.35E-05,0.115,0.078,134.018,261120,classic indonesian rock
+Cokelat,Rasa Baru,Karma,6IAv4Bu6C6DtpKuNOEVven,0.403,0.806,-7.363,0.0588,0,0.105,0.405,108.904,220307,classic indonesian rock
+Dewa 19,Kerajaan Cinta,Laskar Cinta - Chapter One,5kctXBO1yS6oj5xxiRsjto,0.752,0.886,-6.021,0.03,0,0.602,0.968,120.014,244088,classic indonesian rock
+Barasuara,Taifun,Bahas Bahasa,6atraFGvJAsnmAxIZa4kLh,0.501,0.654,-6.331,0.0376,0.00267,0.184,0.188,137.914,268854,indonesian indie
+Dewa 19,Kerajaan Cinta,Sedang Ingin Bercinta,7gYhjTp1emea0mj6ogGI0U,0.704,0.917,-7.661,0.102,0.000248,0.0715,0.948,170.018,240001,classic indonesian rock
+Wali,Doa'In Ya Penonton,Ada Gajah Dibalik Batu,6ifHiuoMDAwUigySNxCmaG,0.734,0.75,-6.264,0.0312,4.39E-06,0.122,0.763,135.005,275002,dangdut
+Kangen Band,Cinta Sampai Mati,Cinta Sampai Mati,7itG6U56KSXtuS7e5Hsb0M,0.621,0.444,-7.018,0.0244,2.02E-06,0.0988,0.326,99.95,223385,dangdut
+Via Vallen,Sayang,Sayang,1cs5LFOcznflbTzEKDPXCx,0.77,0.755,-5.336,0.0546,0,0.15,0.904,140.01,306112,dangdut
+Dewa,Cintailah Cinta,Pupus,7ADK1rnMzP6PGWhoqWirBJ,0.506,0.595,-6.735,0.0326,0,0.088,0.39,139.544,305907,classic indonesian rock
+Barasuara,Taifun,Nyala Suara,2pIUYHViYAWpUpMJD4nwdi,0.39,0.796,-5.621,0.0417,0.79,0.0504,0.475,103.385,298332,indonesian indie
+Cokelat,Rasa Baru,Luka Lama,4jkUGQkxRJm3s8IpyOcM1l,0.565,0.76,-8.503,0.0412,0.00019,0.0601,0.781,89.464,234200,classic indonesian rock
+Dewa,Laskar Cinta,Cinta Gila,7Hz0O0qybNibm4uv58zbhp,0.631,0.848,-6.468,0.0419,0.0119,0.0545,0.793,105.009,311293,classic indonesian rock
+Andra & The Backbone,Andra and the Backbone,Musnah,2cla6KYYJ4xYVB6RV7B5Ef,0.608,0.722,-5.658,0.0382,4.24E-06,0.118,0.326,104.977,240280,classic indonesian rock
+Astrid,Terpukau,Mendua,5g7TAIGfB6vgbaX8AH19FG,0.472,0.401,-5.201,0.0265,0,0.269,0.271,135.888,250000,dangdut
+Base Jam,Base Jam 3,Bukan Pujangga,6D5MMHgNrQqGCtm4CjN9nJ,0.675,0.67,-8.679,0.0289,8.56E-06,0.0915,0.696,88.033,248253,classic indonesian rock
+Garasi,GARASI,Hilang,4jGcWKNR9qNw45wCGk9X6A,0.612,0.805,-7.5,0.0267,3.98E-05,0.31,0.535,96.004,292347,classic indonesian rock
+Cita Citata,Goyang Dumang,Meriang,4soYTiv5v7E7vnMVZKvY8Q,0.687,0.946,-9.292,0.044,0.359,0.32,0.962,139.994,200619,dangdut
+ST12,Pangeran Cinta,Dunia Pasti Berputar,3Q1zLPtQiQzHCltw5mSb7l,0.494,0.49,-7.61,0.027,2.79E-06,0.0935,0.245,119.899,231867,dangdut
+Naif,The Best,Air & Api,0Z3E3USDNRILRhQBwy0ljP,0.702,0.868,-8.361,0.0398,4.45E-05,0.19,0.876,135.048,197813,indonesian indie
+Zaskia Gotik,Gotik,1000 Alasan - Roy Funky Remix,6EgTxFssCuODMnp7RAHolH,0.478,0.97,-4.03,0.055,0.776,0.0529,0.82,180.023,406570,dangdut
+Dewa 19,Kerajaan Cinta,Roman Picisan,5mdlNt45cArlwYhK8WSHKX,0.538,0.795,-5.922,0.0592,2.05E-05,0.361,0.606,159.539,245017,classic indonesian rock
+Tashoora,"Hamba Jaring Cahaya, Hamba Bela Gelapnya",Terang,0UefXVTIGIpAPWwuDaLTii,0.524,0.637,-8.332,0.028,0.0693,0.312,0.334,141.964,396016,indonesian indie
+Kunto Aji,Generation Y,Ekspektasi,5tm5hQWYbjG8WkcmbWpFL1,0.379,0.223,-7.645,0.0318,0,0.375,0.339,75.87,267510,indonesian indie
+Slank,Get Married (Original Motion Picture Soundtrack),Kuil Cinta,0x3vlACsvp5KfR2aC8yr0J,0.336,0.486,-9.5,0.0488,6.94E-06,0.0736,0.458,178.899,216668,classic indonesian rock
+The Rock,Master Mister Ahmad Dhani I,Kamu - Kamulah Surgaku,4wJd8nS7omG8K7efIafxw9,0.609,0.793,-5.87,0.027,2.11E-06,0.163,0.773,90.003,318299,classic indonesian rock
+Siti Badriah,Lagi Syantik,Lagi Syantik,2whJ6VW0y0EGhp1XYElDCp,0.913,0.533,-7.028,0.0425,2.83E-05,0.0947,0.59,102.024,229436,dangdut
+Slank,Get Married 2 (Original Motion Picture Soundtrack),Pandangan Pertama,3if6xX8iwOCeHVvOJCo04H,0.704,0.889,-5.475,0.0524,3.15E-05,0.0556,0.87,117.133,164973,classic indonesian rock
+Slank,Unity And Respect,Kupu Biru,1ZyEVKorMT5oHTzv9PNa6T,0.702,0.907,-4.156,0.0414,0,0.0999,0.774,120.003,230320,classic indonesian rock
+Kotak,Kotak Kedua,Masih Cinta,6ryK8cWzk89UBm42KLHAQU,0.566,0.616,-4.394,0.0322,0,0.184,0.177,148.044,245853,classic indonesian rock
+Radja,Langkah Baru,Bulan,5iTK7e1rxAsQ9WI6IfmeIR,0.508,0.956,-5.93,0.0835,0,0.0315,0.636,149.71,240512,dangdut
+Pinkan Mambo,Wanita Terindah,Kekasih Yang Tak Dianggap,10giEVZwuCrTu39N2vqLJH,0.557,0.687,-4.964,0.0281,0.00265,0.142,0.305,100.01,283480,dangdut
+Radja,Selalu Ada,BBC - Benci Bilang Cinta,3i93yiUFq5TLA5mtqDAwa3,0.659,0.926,-4.58,0.0937,0,0.0659,0.417,109.948,281705,dangdut
+Tere,Sebuah Harapan,Aku Patut Membenci Dia,02lD85byaBYbB6djuwBND5,0.464,0.674,-6.856,0.0301,8.74E-05,0.077,0.281,85.938,286067,classic indonesian rock
+The Dance Company,The Dance Company,Coba Kau Bayangkan,2uJzHiQRXlo7jT8SHNbpau,0.587,0.815,-5.114,0.0336,0,0.142,0.534,113.007,220732,classic indonesian rock
+Ebiet G. Ade,Album 6 Tokoh Tokoh,Untuk Kita Renungkan,3puPvATLhYOaZ6NXuR6gmf,0.537,0.338,-13.038,0.0322,0.00175,0.304,0.249,135.73,304646,dangdut
+Gigi,"Peace, Love And Respect",11 Januari,2Ev8mNT9YHaUIELEKKf4ld,0.315,0.55,-5.649,0.0289,5.70E-04,0.101,0.333,69.241,212027,classic indonesian rock
+Tere,Awal Yang Indah,Kesepian Kita (feat. Pas Band),5s3px69Q6O53XFILyIURl9,0.656,0.726,-7.168,0.0344,0.00259,0.0664,0.62,152.076,287800,classic indonesian rock
+Astrid,Lihat Aku Sekarang,Tentang Rasa,73PIm6P5ruqBmcEVtzcop2,0.64,0.406,-6.444,0.0284,0,0.1,0.118,129.987,251227,dangdut
+Slank,I Slank U,Cubit2an,2zP2g76GzdyP78saQJOWlj,0.444,0.75,-4.008,0.0572,1.39E-06,0.346,0.586,132.755,232572,classic indonesian rock
+Seurieus,Rocker Juga Manusia,Rocker Juga Manusia,1AQYrVQfjeAxxHraqyEKzN,0.394,0.704,-3.471,0.0351,4.33E-06,0.29,0.279,144.197,281120,classic indonesian rock
+Slank,Plur,Ku Tak Bisa,6cR3LxWz9Nx57EpZCaNGb4,0.35,0.388,-7.863,0.0298,0,0.13,0.275,140.215,263423,classic indonesian rock
+Slank,Kampungan,Terlalu Manis - Suka Suka,6zouEyyNJqn0vDJ5tyi0kt,0.495,0.468,-7.832,0.0258,0,0.121,0.165,144.016,302476,classic indonesian rock
+The Rock,Master Mister Ahmad Dhani I,Munajat Cinta,0yv6RSO1Ex95slXBDVJX0X,0.628,0.668,-6.915,0.0257,0.000102,0.0769,0.833,74.994,224165,classic indonesian rock
+The Rock,Master Mister Ahmad Dhani I,Aku Cinta Kau Dan Dia,3xzLCrg0gir5YKT4o0V6zs,0.589,0.725,-6.265,0.0611,0,0.32,0.731,165.873,291782,classic indonesian rock
+Barasuara,Taifun,Api dan Lentera,2RAmryNNQLMNqVIZil60mt,0.389,0.84,-5.88,0.0442,0.0233,0.12,0.39,121.087,263637,indonesian indie
+Naif,Jangan Terlalu,Posessif,1BCU2dwLoxg17UbuUN9jwV,0.623,0.442,-8.888,0.0264,1.53E-05,0.238,0.444,100,259973,indonesian indie
+Pas Band,The BeAst of PAS,Kesepian Kita (feat. Tere),0UDEbnlIXLSmSJMH1BiD7R,0.646,0.716,-7.385,0.0349,0.00316,0.0696,0.636,152.029,287573,classic indonesian rock
+Slank,Get Married (Original Motion Picture Soundtrack),Orkes Sakit Hati,0zaPpV8NFXWMTUGZTgFamL,0.4,0.531,-11.694,0.0379,0,0.0934,0.923,131.562,149037,classic indonesian rock
+Ayu Ting Ting,Best of Ayu Ting Ting,Sambalado,4QdjHiV03NDZBPgEdZGXJU,0.664,0.938,-3.573,0.0596,0,0.219,0.961,80.07,219827,dangdut
+Monita Tahalea,Dandelion,Hai,5sKqRSyLgdttr4No1vXlSV,0.636,0.527,-8.145,0.0254,0.00288,0.126,0.598,105.299,252347,indonesian indie
+Ecoutez,Love - Live - Life,Simpan Saja,2qiODpF8mTIV4n5OqIygHn,0.467,0.236,-11.177,0.036,1.67E-05,0.386,0.303,180.051,294927,indonesian indie
+Andra & The Backbone,Season 2,Tak Ada Yang Bisa,6Z4tlHCjshFka6UfoIkwfm,0.529,0.287,-10.632,0.0308,5.15E-05,0.132,0.253,120.121,300652,classic indonesian rock
+Slank,Generasi Biru (Original Motion Picture Soundtrack),Slank Dance,00wlmPplya6aVaWTP24mCb,0.658,0.613,-5.121,0.0381,2.86E-06,0.486,0.0923,119.986,155293,classic indonesian rock
+Padi,Sesuatu Yang Tertunda,Kasih Tak Sampai,1oAWbr6TXkRajJKgSm1vF5,0.281,0.207,-13.734,0.0396,0.0117,0.058,0.149,71.632,293320,classic indonesian rock
+Barasuara,Pikiran dan Perjalanan,Masa Mesias Mesias,2BziBGtZRmw2YwFInkc3Xm,0.372,0.98,-4.63,0.0573,0.645,0.264,0.681,193.962,189001,indonesian indie
+Vina Panduwinata,Terbaik 1981 - 2006,Cinta,4droKDn4442h9GcwlsIZ7x,0.557,0.308,-13.483,0.0338,9.39E-05,0.0915,0.298,129.43,242933,dangdut
+Tashoora,"Hamba Jaring Cahaya, Hamba Bela Gelapnya",Nista,4YJteYsiHPtjwMclESUa0k,0.516,0.56,-9.764,0.0315,0.759,0.104,0.1,134.062,274001,indonesian indie
+Vina Panduwinata,Cium Pipiku,Logika,5PPk6wNODCAKfcn8WwkyMy,0.711,0.518,-7.687,0.0328,0.0125,0.209,0.389,144.44,279720,dangdut
+The Rock,Master Mister Ahmad Dhani I,Rahasia Perempuan - Swing Version,4vJsbvJsRJU0oWORU4LQP7,0.775,0.524,-7.891,0.041,0,0.0414,0.704,112.034,224908,classic indonesian rock
+Dewa,Bintang Lima,Lagu Cinta,4SBtl9yUdMjc8erkDiKzxG,0.503,0.54,-7.647,0.026,2.58E-06,0.371,0.209,76.803,266867,classic indonesian rock
+Zaskia Gotik,Gotik,1 Jam vs. ABG Tua - DJ Roy Edit Mix,6uWckESw1KdjIqvqCSd4wB,0.536,0.996,-3.425,0.0451,0.757,0.28,0.961,160.006,248843,dangdut
+Barasuara,Pikiran dan Perjalanan,Guna Manusia,5hFSadbnaGPDDInzs2vc10,0.369,0.877,-5.901,0.0348,0.00618,0.173,0.715,128.946,269152,indonesian indie
+Barasuara,Pikiran dan Perjalanan,Seribu Racun,39g77d5bDuayJ0HDYbOlqa,0.553,0.853,-4.307,0.0367,0.011,0.115,0.485,126.056,211814,indonesian indie
+Petra Sihombing,Mine,Pilih Saja Aku,3e7Xsl6DPWEgAgBF1ErMl8,0.798,0.522,-6.796,0.0345,6.21E-05,0.132,0.964,120.006,204227,indonesian indie
+Kotak,Terbaik,Beraksi,3G5rkSTf81jKMwsjL8nhTz,0.623,0.875,-3.441,0.0318,8.16E-06,0.179,0.82,105.961,205373,classic indonesian rock
+Padi,The Singles,Rapuh,0e5o8SmKc0ckDiG80QDweM,0.319,0.384,-7.555,0.0276,0.000333,0.124,0.113,138.197,301493,classic indonesian rock
+Naif,The Best,Posessif,5L2Xs77rPP8qmpII88S5A5,0.61,0.442,-8.885,0.0266,7.52E-05,0.0909,0.468,100.004,262747,indonesian indie
+Ridho Rhoma & Sonet 2 Band,Regrets,Cuma Kamu (Versi Film),05z1T0zFEaJzTBfRRypM9w,0.701,0.442,-9.672,0.0258,0.00225,0.0747,0.266,104.017,245427,dangdut
+Petra Sihombing,Mine,Mine,6NkUP6IeLnH6Yaw2wcNHzO,0.472,0.572,-5.651,0.0282,0,0.0711,0.361,81.367,229120,indonesian indie
+Ebiet G. Ade,Camellia 4,Titip Rindu Buat Ayah,3meMrWmiIPjlidIkRx9ndv,0.379,0.329,-8.773,0.0265,0.0298,0.105,0.167,139.024,321643,dangdut
+Dewa 19,Kerajaan Cinta,Kangen,5LqanqJSmZwbwPtIi2RwTb,0.618,0.776,-6.41,0.0282,0,0.127,0.842,133.986,300513,classic indonesian rock
+Ayu Ting Ting,Best of Ayu Ting Ting,My Lopely,3yvBAoDq4HboYpLPF6xmXO,0.686,0.963,-4.06,0.057,0.000165,0.374,0.854,147.006,182720,dangdut
+Wali,Orang Bilang,Emang Dasar,5cAO4rrfD3oxNY9IJmt057,0.672,0.733,-5.621,0.0368,0,0.133,0.695,130.016,249658,dangdut
+Radja,Langkah Baru,Cinderella,5T1YKXanG4LAOR4CHENQUf,0.481,0.877,-7.461,0.0467,0,0.108,0.618,171.975,212138,dangdut
+Barasuara,Taifun,Taifun,2ZVHcGGXwarQ0ZfBnY8HLQ,0.533,0.458,-5.287,0.0239,0.083,0.161,0.188,142.099,271645,indonesian indie
+Gigi,"Peace, Love And Respect",Nakal,0J2fHzyhbvoj0pbs5b9GIf,0.601,0.939,-3.669,0.039,0.00E+00,0.179,0.671,94.052,232067,classic indonesian rock
+Dewa 19,Kerajaan Cinta,Selimut Hati,3mM7f12I9yOmLeqye0bII2,0.703,0.428,-8.41,0.0286,9.84E-05,0.129,0.545,74.996,279290,classic indonesian rock
+Barasuara,Pikiran dan Perjalanan,Pikiran dan Perjalanan,25c343Sb9sYgZHc5b8GhLV,0.59,0.911,-5.212,0.0484,0.00197,0.232,0.879,86.994,272305,indonesian indie
+Kotak,Terbaik,Tendangan Dari Langit,6xqat0eZI1KqDKMPBzuF8J,0.626,0.894,-5.587,0.0642,0,0.223,0.636,135.011,244307,classic indonesian rock
+Melinda,Ratu Funky,Aw Aw,6r0oSQKKSbPNMQiT8DMZ7M,0.657,0.951,-2.765,0.0388,0.757,0.201,0.849,159.985,231401,dangdut
+Ayu Ting Ting,Best of Ayu Ting Ting,Suara Hati,6yfjukewoZYXrYTm2vwxa1,0.652,0.803,-4.6,0.0329,1.52E-06,0.0703,0.775,136.246,235053,dangdut
+Cokelat,Panca Indera,Salah,5OXp8P1mZOm7HX5SN3oBeR,0.41,0.822,-5.686,0.0456,3.02E-05,0.0972,0.805,180.072,248013,classic indonesian rock
+Radja,Langkah Baru,Tulus,3epntraHxRHnB8OZFJp6KL,0.544,0.909,-6.28,0.0493,0,0.0771,0.706,149.832,263454,dangdut
+Siti Badriah,Satu Sama,Terong Dicabein,1BGcUs0zjJmwHHiJ2ccDwb,0.815,0.94,-3.681,0.0385,2.06E-06,0.0995,0.856,134.989,260103,dangdut
+Pinkan Mambo,Aku Tau Rasanya,Dirimu Dirinya,3rbvkU65KH2Eb0DwiFh7nN,0.287,0.497,-8.744,0.0336,0.00249,0.163,0.112,141.51,219307,dangdut
+Stinky,The Best Of Stinky,Mungkinkah,1Zh3pCFSFru1NuecRqIEBH,0.536,0.38,-10.417,0.0277,5.85E-06,0.404,0.205,73.994,257927,classic indonesian rock
+Wali,Aku Bukan Bang Toyib,Aku Bukan Bang Toyib,2ZnMyljOhstLNMuzyGCnze,0.673,0.836,-4.387,0.037,0,0.0737,0.713,131.964,206080,dangdut
+Kunto Aji,Generation Y,Terlalu Lama Sendiri,1oKJJOjLULChjf4BM3qEJO,0.487,0.373,-8.58,0.0844,0,0.456,0.587,109.894,241708,indonesian indie
+Padi,The Singles,Sang Penghibur,5jJV1Mx1Vli2onWoECmAht,0.424,0.895,-3.285,0.0482,0,0.323,0.349,104.016,290933,classic indonesian rock
+Barasuara,Taifun,Menunggang Badai,5TRxePA2lSaJm4Mw1QX9Jr,0.533,0.876,-5.256,0.0386,0.269,0.0907,0.7,94.016,303085,indonesian indie
+Java Jive,1993 - 2006,Selalu Untuk Selamanya,0RvyuHvlO2UCp17iw27kwL,0.428,0.398,-7.338,0.0309,0.00189,0.126,0.143,133.368,255027,classic indonesian rock
+Naif,The Best,Curi - Curi Pandang,1y75Y23XmEbHvFUK0by5G9,0.82,0.507,-9.783,0.0299,0,0.082,0.701,110.222,192053,indonesian indie
+Tashoora,"Hamba Jaring Cahaya, Hamba Bela Gelapnya",Distilasi,0E1Vkx7vxwFSClWauTmRIM,0.687,0.641,-7.141,0.0265,0.11,0.189,0.58,124.041,200005,indonesian indie
+Iwan Fals,In Love,Ijinkan Aku Menyayangimu,108AjsNJYPMrZWecK7xNkF,0.522,0.358,-9.214,0.03,0.146,0.107,0.105,137.66,282000,classic indonesian rock

@@ -4,6 +4,7 @@ import os
 import io
 import base64
 import tempfile
+import pandas as pd
 
 
 import tensorflow as tf
@@ -45,9 +46,18 @@ def classify_image(model, image):
 
 if __name__ == '__main__':
     st.header('Implementasi SuperTML untuk Klasifikasi Genre Musik Indonesia')
-    apps = ['--Select--', 'Konversi Tabular to Image', 'Klasifikasi Genre Musik']
+    st.write('Aplikasi ini merupakan aplikasi untuk mengklasifikasikan Genre musik berdasarkan data audion analysis yang akan di klasifikasikan dari bentuk gambar')
+    st.write('Silakan Lihat terlebih dahulu di menu "Contoh data Audio Analysis dan Genre-nya"')
+    st.write('Kemudian bisa mencoba menginputkan nilai audio analysis pada menu "Konversi Tabular to Image" ')
+    st.write('Jangan lupa untuk mengunduh gambar, kemudian silakan coba klasifikasikan gambar yang sudah di unduh pada menu "Klasifikasi Genre Musi" ')
+    apps = ['--Select--', 'Contoh data Audio Analysis dan Genre-nya', 'Konversi Tabular to Image', 'Klasifikasi Genre Musik']
     app_options = st.selectbox('Select application', apps)
-    if app_options == 'Konversi Tabular to Image':
+    if app_options == 'Contoh data Audio Analysis dan Genre-nya':
+        df = pd.read_csv('data.csv')
+        st.dataframe(df)
+
+    
+    elif app_options == apps[2]:
         st.subheader('Pada bagian ini silakan inputkan nilai dari audio analysis sebagai berikut:')
         st.caption('1. Danceability: Danceability menggambarkan seberapa cocok suatu lagu untuk menari berdasarkan kombinasi elemen musik termasuk tempo, stabilitas ritme, kekuatan ketukan, dan keteraturan secara keseluruhan. Nilai 0,0 adalah yang paling tidak dapat ditarikan dan 1,0 adalah yang paling dapat ditarikan.')
         st.caption('2. Energy: Energi adalah ukuran dari 0,0 hingga 1,0 dan mewakili ukuran persepsi intensitas dan aktivitas. Biasanya, trek yang energik terasa cepat, keras, dan berisik. Misalnya, death metal memiliki energi yang tinggi, sedangkan pendahuluan Bach mendapat skor rendah pada skalanya.')
@@ -90,7 +100,7 @@ if __name__ == '__main__':
         if st.button("Klik di sini untuk mengunduh gambar"):
             st.markdown(get_binary_file_downloader_html(temp_file_path, file_name), unsafe_allow_html=True)
 
-    elif app_options == apps[2]:
+    elif app_options == apps[3]:
         st.markdown('Klasifikasi Genre Musik menggunakan Pre-trained CNN DenseNet121')   
         st.title('Aplikasi Klasifikasi Gambar')
         model_path = 'model.h5'
