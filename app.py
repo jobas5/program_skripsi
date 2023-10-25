@@ -102,12 +102,22 @@ if __name__ == '__main__':
             image_uploaded = Image.open(uploaded_image)
             st.image(image_uploaded, caption="Gambar yang diunggah", use_column_width=True)
 
+            classification_dict = {
+            0: 'indonesian pop',
+            1: 'indonesian folk',
+            2: 'classic indonesian rock',
+            3: 'dangdut',
+            4: 'indonesian indie'
+}
             # Klasifikasikan gambar jika ada gambar yang diunggah
             if st.button('Klasifikasikan'):
                 image_uploaded = np.array(image_uploaded)
-                predictions = classify_image(model, image_uploaded)
+                predictions = classify_image(model, image_uploaded)  # Anda harus menentukan bagaimana Anda mendapatkan prediksi ini
+                highest_prediction = np.argmax(predictions)  # Mengambil indeks prediksi tertinggi
+                result = classification_dict.get(highest_prediction, 'Klasifikasi tidak ditemukan')  # Mengambil label klasifikasi
+
                 st.write('Hasil Klasifikasi:')
-                st.write(predictions)
+                st.write(result)
             
 
 
