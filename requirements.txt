@@ -1,3 +1,4 @@
+pip==23.3.1
 altair==4.0.0
 keras==2.11.0
 Keras-Applications==1.0.8
