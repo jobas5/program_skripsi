@@ -1,10 +1,12 @@
-pip==23.3.1
 altair==4.0.0
 keras==2.11.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 numpy==1.21.6
-pillow==6.2.2
+zlib1g-dev
+libjpeg-dev
+libpng-dev
+pillow
 protobuf==3.19.6
 streamlit==1.9.0
 tensorflow==2.11.0
