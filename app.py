@@ -103,7 +103,7 @@ if __name__ == '__main__':
     elif app_options == apps[3]:
         st.markdown('Klasifikasi Genre Musik menggunakan Pre-trained CNN DenseNet121')   
         st.title('Aplikasi Klasifikasi Gambar')
-        model_path = 'model.h5'
+        model_path = 'mobileNet_SF.h5'
         model = load_model(model_path)
 
         uploaded_image = st.file_uploader("Unggah gambar", type=["jpg", "png", "jpeg"])
