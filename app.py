@@ -13,8 +13,8 @@ from tensorflow.keras.applications.densenet import preprocess_input
 
 from PIL import Image, ImageDraw, ImageFont
 
-grid = [(20, 20), (100, 20), (180, 20), (40, 80), (120, 80), (40, 110), (100, 150), (40, 190), (120, 220)]
-font_sizes = [20, 20, 20, 20, 20, 24, 24, 24, 24]
+grid=[(20,20),(100,20),(180,20),(40,60),(120,60),(40,110),(100,150),(40,190),(120,220)]
+font_sizes = [20, 20, 20, 20, 20, 27, 27, 27, 27]
 
 def sample_to_image(sample, save_directory):
     img = Image.new('RGB', (255, 255), color='black')
@@ -103,7 +103,7 @@ if __name__ == '__main__':
     elif app_options == apps[3]:
         st.markdown('Klasifikasi Genre Musik menggunakan Pre-trained CNN DenseNet121')   
         st.title('Aplikasi Klasifikasi Gambar')
-        model_path = 'mobileNet_SF.h5'
+        model_path = 'model.h5'
         model = load_model(model_path)
 
         uploaded_image = st.file_uploader("Unggah gambar", type=["jpg", "png", "jpeg"])
