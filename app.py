@@ -13,8 +13,8 @@ from tensorflow.keras.applications.densenet import preprocess_input
 
 from PIL import Image, ImageDraw, ImageFont
 
-grid=[(20,20),(100,20),(180,20),(40,60),(120,60),(40,110),(100,150),(40,190),(120,220)]
-font_sizes = [20, 20, 20, 20, 20, 27, 27, 27, 27]
+grid=[(20,20),(100,20),(180,20),(20,40),(140,80),(40,100),(100,150),(40,190),(120,220)]
+font_sizes = [15, 20, 13, 35, 15, 38, 30, 35, 40] 
 
 def sample_to_image(sample, save_directory):
     img = Image.new('RGB', (255, 255), color='black')
