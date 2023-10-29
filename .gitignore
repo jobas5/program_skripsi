@@ -6,5 +6,3 @@ cnn.h5
 denseNet.h5
 resNet.h5
 resNet_SF.h5
-*.h5
-model.h5
