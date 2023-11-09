@@ -46,10 +46,10 @@ def classify_image(model, image):
 
 if __name__ == '__main__':
     st.header('Implementasi SuperTML untuk Klasifikasi Genre Musik Indonesia')
-    st.write('Aplikasi ini merupakan aplikasi untuk mengklasifikasikan Genre musik berdasarkan data audion analysis yang akan di klasifikasikan dari bentuk gambar')
-    st.write('Silakan Lihat terlebih dahulu di menu "Contoh data Audio Analysis dan Genre-nya"')
-    st.write('Kemudian bisa mencoba menginputkan nilai audio analysis pada menu "Konversi Tabular to Image" ')
-    st.write('Jangan lupa untuk mengunduh gambar, kemudian silakan coba klasifikasikan gambar yang sudah di unduh pada menu "Klasifikasi Genre Musi" ')
+    st.write('Aplikasi ini merupakan aplikasi untuk mengklasifikasikan Genre musik berdasarkan data audio analysis yang akan diklasifikasikan dari sebuah citra/gambar')
+    st.write('Silakan Lihat terlebih dahulu di menu "Contoh data Audio Analysis dan Genre-nya" untuk melihat gambaran data')
+    st.write('Kemudian bisa mencoba menginputkan nilai audio analysis pada menu "Konversi Tabular to Image" untuk mengubah data tabular menjadi citra')
+    st.write('Jangan lupa untuk mengunduh citra, kemudian silakan coba klasifikasikan gambar yang sudah diunduh pada menu "Klasifikasi Genre Musik" ')
     apps = ['--Select--', 'Contoh data Audio Analysis dan Genre-nya', 'Konversi Tabular to Image', 'Klasifikasi Genre Musik']
     app_options = st.selectbox('Select application', apps)
     if app_options == 'Contoh data Audio Analysis dan Genre-nya':
