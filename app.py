@@ -100,9 +100,8 @@ if __name__ == '__main__':
         if st.button("Klik di sini untuk mengunduh gambar"):
             st.markdown(get_binary_file_downloader_html(temp_file_path, file_name), unsafe_allow_html=True)
 
-    elif app_options == apps[3]:
-        st.markdown('Klasifikasi Genre Musik')   
-        st.title('Aplikasi Klasifikasi Gambar')
+    elif app_options == apps[3]: 
+        st.title('Aplikasi Klasifikasi Genre Musik dari Citra')
         model_path = 'mobilenet_sf_3.h5'
         model = load_model(model_path)
 
